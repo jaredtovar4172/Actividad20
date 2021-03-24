@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\bin\Debug\Ej20.-CalcularSumaSerieN.exe.config
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\bin\Debug\Ej20.-CalcularSumaSerieN.exe
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\bin\Debug\Ej20.-CalcularSumaSerieN.pdb
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20.-CalcularSumaSerieN.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20._CalcularSumaSerieN.Form1.resources
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20._CalcularSumaSerieN.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20.-CalcularSumaSerieN.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20.-CalcularSumaSerieN.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20.-CalcularSumaSerieN.exe
+C:\Users\jared\source\repos\Ej20.-CalcularSumaSerieN\Ej20.-CalcularSumaSerieN\obj\Debug\Ej20.-CalcularSumaSerieN.pdb
